@@ -1,0 +1,12 @@
+# python
+.venv
+__pycache__
+.ruff_cache
+.mypy_cache
+
+# os and editor
+.DS_Store
+.vscode
+
+# env
+.env
